@@ -1,6 +1,6 @@
 After cloning the repository, run the following commands:
 
-1. `npm start`
+1. `npm install`
    1. This command will install dependencies into the node_modules/ directory
 2. `npm run build`
    1. Build the project
